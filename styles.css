@@ -1,0 +1,33 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	min-height: 100%;
+	font-family: "Exo", sans-serif;
+	display: block;
+	background-color: #455a64;
+	color: #fff;
+	font-size: 22px;
+}
+section {
+	position: relative;
+	display: block;
+}
+.content-wr {
+	min-height: 100vh;
+	position: relative;
+	max-width: 1200px;
+	margin: 5% auto;
+	text-align: center;
+}
+input{
+	font-size: 22px;
+	height: 40px;
+}
+button{
+	width: 40px;
+	height: 40px;
+	padding: 5px;
+	box-sizing: border-box;
+	font-size: 22px;
+}
